@@ -1,0 +1,58 @@
+ID;genero;ccr_s_educ;ccr_s_nac;edad;(edad_45);fono;wsp;jjvv;seg_salud;ccr_a_colon;ccr_a_polip;ccr_a_eii;ccr_a_fam;ccr_a_fam50;ccr_d_imc;ccr_h_tabac;ccr_h_alc;ccr_h_drogas;ccr_p_act;ccr_s_jefe;ccr_c_peso;ccr_c_diar;ccr_c_estr;ccr_c_sangre;ccr_c_anemia;ccr_c_masa;ccr_c_ccr;riesgo;riesgo-45
+1;Hombre;Superior (completo/incompleto);Chilena;25;No;56977712298;Sí;No;FONASA B;No;No;No;No;;Sobrepeso;Fumo actualmente;Moderado;No;Moderadamente activo;No;No;No;No;Si;No;No;No;Riesgo Alto;Si
+2;Mujer;Media (completo/incompleto);Chilena;79;Si;56988135696;Sí;Sí;FONASA A;Sí;No;No;No;;Peso normal;Nunca fumé;Ninguno;No;Activo;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+3;Mujer;Superior (completo/incompleto);Chilena;40;No;56944854287;Sí;No;FONASA D;No;No;No;No;;Peso normal;Fumé en el pasado;Moderado;No;Sedentario;Sí;No;No;No;No;No;No;No;Riesgo bajo;No
+4;Hombre;Básico (completo/incompleto);Chilena;37;No;56935112036;Sí;No;FONASA C;No;No;No;No;;Sobrepeso;Nunca fumé;Moderado;No;Sedentario;No;No;No;No;No;No;No;No;Riesgo bajo;No
+5;Hombre;Media (completo/incompleto);Chilena;63;Si;56997904500;Sí;No;Capredena;Sí;No;No;No;;Sobrepeso;Nunca fumé;Ninguno;No;Moderadamente activo;Sí;No;No;Si;No;No;No;No;Riesgo moderado;No
+6;Hombre;Media (completo/incompleto);Chilena;26;No;56951080871;Sí;No;Capredena;No;No;No;No;;Peso normal;Nunca fumé;Moderado;No;Activo;No;No;No;No;No;No;No;No;Riesgo bajo;No
+7;Hombre;Superior (completo/incompleto);Chilena;53;Si;569677180315;Sí;No;FONASA C;Sí;No;No;Si;No;Obesidad;Fumé en el pasado;Moderado;No;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+8;Mujer;Superior (completo/incompleto);Chilena;43;No;56932439153;Sí;No;Sin afiliación;No;No;No;No;;Peso normal;Fumo actualmente;Moderado;No;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo bajo;No
+9;Hombre;Superior (completo/incompleto);Venezolana;43;No;56931786358;Sí;Sí;FONASA B;No;No;No;No;;Peso normal;Nunca fumé;Ninguno;No;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo bajo;No
+10;Mujer;Media (completo/incompleto);Chilena;64;Si;56978757506;Sí;Sí;Sin afiliación;No;No;No;No;;Obesidad;Nunca fumé;Ninguno;No;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+11;Mujer;Superior (completo/incompleto);Venezolana;75;Si;56934032702;Sí;No;FONASA B;Sí;No;No;No;;Peso normal;Nunca fumé;Ninguno;No;Activo;No;No;No;No;No;No;No;No;Riesgo moderado;No
+12;Hombre;Superior (completo/incompleto);Chilena;62;Si;56994719675;Sí;No;FONASA B;No;No;No;No;;Obesidad;Fumé en el pasado;Moderado;No;Sedentario;No;No;No;No;No;No;No;No;Riesgo moderado;No
+13;Hombre;Superior (completo/incompleto);Chilena;69;Si;56932284351;Sí;No;Dipreca;No;No;No;No;;Obesidad;Fumo actualmente;Ninguno;No;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+14;Hombre;Media (completo/incompleto);Chilena;42;No;56920243026;Sí;No;FONASA B;No;No;No;No;;Sobrepeso;Fumo actualmente;Moderado;No;Sedentario;Sí;No;No;No;No;No;No;No;Riesgo bajo;No
+15;Mujer;Media (completo/incompleto);Chilena;56;Si;56993610201;Sí;No;ISAPRE;No;No;No;No;;Peso normal;Nunca fumé;Moderado;No;Activo;No;No;No;No;No;No;No;No;Riesgo moderado;No
+16;Mujer;Media (completo/incompleto);Chilena;60;Si;56986238794;Sí;No;Capredena;No;No;No;No;;Sobrepeso;Fumé en el pasado;Ninguno;No;Moderadamente activo;No;No;No;No;No;No;No;No;Riesgo moderado;No
+17;Hombre;Básico (completo/incompleto);Chilena;57;Si;56966739443;Sí;Sí;FONASA A;No;No;No;No;;Sobrepeso;Fumo actualmente;Moderado;No;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+18;Hombre;Superior (completo/incompleto);Chilena;34;No;56934380678;Sí;No;FONASA C;No;No;No;No;;Peso normal;Nunca fumé;Moderado;Sí;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo bajo;No
+19;Mujer;Media (completo/incompleto);Chilena;45;Si;56979267544;Sí;No;FONASA B;No;No;No;No;;Obesidad;Nunca fumé;Ninguno;No;Sedentario;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+20;Mujer;Básico (completo/incompleto);Chilena;82;Si;56965936574;No;No;FONASA B;No;No;No;No;;Sobrepeso;Fumé en el pasado;Ninguno;No;Moderadamente activo;Sí;No;No;Si;No;No;No;No;Riesgo moderado;No
+21;Hombre;Superior (completo/incompleto);Chilena;52;Si;56999642649;Sí;No;ISAPRE;No;No;No;No;;Obesidad;Fumé en el pasado;Moderado;No;Activo;Sí;No;Si;No;Si;No;No;No;Riesgo Alto;No
+22;Mujer;Superior (completo/incompleto);Chilena;28;No;56954709943;Sí;No;FONASA A;No;No;No;No;;Sobrepeso;Fumo actualmente;Ninguno;No;Moderadamente activo;No;Sí;Si;No;No;No;No;No;Riesgo bajo;No
+23;Mujer;Media (completo/incompleto);Chilena;74;Si;56976757699;Sí;Sí;FONASA A;No;No;No;No;;Sobrepeso;Nunca fumé;Ninguno;No;Moderadamente activo;Sí;No;No;No;No;Si;No;No;Riesgo moderado;No
+24;Hombre;Media (completo/incompleto);Chilena;43;No;56997859074;Sí;No;No sabe;No;No;No;No;;Peso normal;Fumo actualmente;Moderado;No;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo bajo;No
+25;Mujer;Superior (completo/incompleto);Chilena;54;Si;56995222727;Sí;No;FONASA D;Sí;Si;No;No;;Obesidad;Nunca fumé;Ninguno;No;Sedentario;Sí;No;Si;Si;Si;No;Si;No;Riesgo Alto;No
+26;Hombre;Superior (completo/incompleto);Chilena;42;No;56976586011;Sí;No;FONASA D;No;No;No;No;;Peso normal;Nunca fumé;Moderado;Sí;Moderadamente activo;No;No;No;No;No;No;No;No;Riesgo bajo;No
+27;Hombre;Media (completo/incompleto);Chilena;58;Si;56971094180;Sí;No;Sin afiliación;Sí;No;No;No;;Obesidad;Nunca fumé;Ninguno;No;Sedentario;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+28;Hombre;Superior (completo/incompleto);Chilena;63;Si;56991215426;Sí;No;FONASA B;No;No;No;No;;Sobrepeso;Fumo actualmente;Ninguno;No;Activo;Sí;No;No;Si;No;No;No;No;Riesgo moderado;No
+29;Hombre;Media (completo/incompleto);Chilena;65;Si;56997865362;Sí;No;FONASA A;Sí;No;No;No;;Bajo peso;Fumé en el pasado;Ninguno;No;Moderadamente activo;No;No;No;No;No;Si;No;No;Riesgo moderado;No
+30;Mujer;Básico (completo/incompleto);Chilena;80;Si;56979937717;Sí;No;FONASA B;No;No;No;No;;Sobrepeso;Nunca fumé;Ninguno;No;Activo;No;No;No;No;No;No;No;No;Riesgo moderado;No
+31;Hombre;Media (completo/incompleto);Chilena;72;Si;56999209648;Sí;No;FONASA B;Sí;No;No;No;;Peso normal;Nunca fumé;Moderado;No;Activo;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+32;Hombre;Superior (completo/incompleto);Chilena;52;Si;56961493018;Sí;No;ISAPRE;No;No;No;Si;No;Sobrepeso;Fumo actualmente;Moderado;No;Activo;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+33;Mujer;Media (completo/incompleto);Chilena;73;Si;56994719675;Sí;No;FONASA C;Sí;No;No;No;;Peso normal;Nunca fumé;Moderado;No;Sedentario;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+34;Hombre;Media (completo/incompleto);Chilena;82;Si;56991792614;No;No;FONASA C;Sí;;No;No;;Peso normal;Nunca fumé;Moderado;No;Activo;Sí;No;No;No;Si;No;No;No;Riesgo Alto;No
+35;Hombre;Básico (completo/incompleto);Chilena;63;Si;56974203189;Sí;No;FONASA B;No;No;No;No;;Sobrepeso;Fumo actualmente;Moderado;No;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+36;Mujer;Media (completo/incompleto);Chilena;45;Si;56977743413;Sí;No;Capredena;No;No;No;No;;Sobrepeso;Fumé en el pasado;Ninguno;No;Sedentario;No;No;No;Si;No;No;No;No;Riesgo moderado;No
+37;Hombre;Básico (completo/incompleto);Chilena;88;Si;652288547;No;No;FONASA B;No;No;No;No;;Sobrepeso;Fumo actualmente;Ninguno;No;Sedentario;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+38;Hombre;Superior (completo/incompleto);Chilena;33;No;56982886991;Sí;Sí;FONASA C;No;No;No;No;;Sobrepeso;Nunca fumé;Moderado;Sí;Moderadamente activo;Sí;No;No;No;Si;No;No;No;Riesgo Alto;Si
+39;Hombre;Media (completo/incompleto);Chilena;63;Si;56978835419;Sí;No;FONASA B;No;No;No;No;;Sobrepeso;Nunca fumé;Ninguno;No;Moderadamente activo;Sí;No;Si;No;Si;Si;No;No;Riesgo Alto;No
+40;Mujer;Básico (completo/incompleto);Chilena;77;Si;56934251903;Sí;No;FONASA A;No;Si;No;No;;Peso normal;Nunca fumé;Ninguno;No;Moderadamente activo;Sí;Sí;No;Si;Si;Si;Si;No;Riesgo Alto;No
+41;Mujer;Superior (completo/incompleto);Chilena;67;Si;56966476374;Sí;No;FONASA C;No;No;No;No;;Obesidad;Nunca fumé;Moderado;No;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+42;Mujer;Media (completo/incompleto);Chilena;58;Si;56965936574;Sí;No;FONASA B;No;No;No;No;;Obesidad;Fumé en el pasado;Ninguno;No;Moderadamente activo;No;No;No;No;No;No;Si;No;Riesgo moderado;No
+43;Mujer;Media (completo/incompleto);Chilena;41;No;56940003954;Sí;No;FONASA C;No;No;No;No;;Obesidad;Nunca fumé;Moderado;No;Sedentario;No;No;No;No;No;No;No;No;Riesgo bajo;No
+44;Hombre;Básico (completo/incompleto);Chilena;67;Si;56981318185;No;No;Sin afiliación;No;No;No;No;;Sobrepeso;Fumo actualmente;Ninguno;No;Activo;Sí;No;No;No;Si;No;No;No;Riesgo Alto;No
+45;Mujer;Media (completo/incompleto);Venezolana;29;No;56923760003;Sí;No;FONASA A;No;No;No;No;;Obesidad;Fumé en el pasado;Ninguno;No;Activo;Sí;No;Si;No;No;No;No;No;Riesgo bajo;No
+46;Mujer;Superior (completo/incompleto);Chilena;35;No;56962027327;Sí;No;Capredena;No;No;No;No;;Sobrepeso;Nunca fumé;Moderado;No;Moderadamente activo;No;Sí;No;No;No;No;No;No;Riesgo bajo;No
+47;Hombre;Media (completo/incompleto);Chilena;31;No;56987272766;Sí;No;FONASA (Desconoce tramo);No;No;No;No;;Sobrepeso;Nunca fumé;Moderado;No;Activo;Sí;No;No;No;No;No;No;No;Riesgo bajo;No
+48;Mujer;Básico (completo/incompleto);Chilena;78;Si;56997132952;Sí;No;FONASA D;No;No;No;Si;Si;Sobrepeso;Nunca fumé;Moderado;No;Sedentario;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+49;Hombre;Media (completo/incompleto);Chilena;25;No;56930607187;Sí;No;FONASA B;No;No;No;No;;Sobrepeso;Fumo actualmente;Moderado;Sí;Activo;No;Sí;No;No;No;No;No;No;Riesgo bajo;No
+50;Hombre;Básico (completo/incompleto);Chilena;79;Si;56933638077;Sí;Sí;FONASA B;Sí;No;No;No;;Sobrepeso;Nunca fumé;Moderado;No;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+51;Mujer;Media (completo/incompleto);Chilena;57;Si;56986720782;Sí;No;FONASA D;Sí;No;No;No;;Obesidad;Nunca fumé;Ninguno;No;Sedentario;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+52;Mujer;Superior (completo/incompleto);Chilena;33;No;56963986664;Sí;No;FONASA B;No;No;No;No;;Obesidad;Fumo actualmente;Ninguno;Sí;Sedentario;Sí;No;No;No;No;No;No;No;Riesgo bajo;No
+53;Mujer;Media (completo/incompleto);Chilena;73;Si;56949755972;Sí;Sí;FONASA B;No;No;No;No;;Obesidad;Fumo actualmente;Ninguno;No;Sedentario;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+54;Mujer;Básico (completo/incompleto);Chilena;57;Si;56910128398;Sí;No;FONASA B;Sí;;No;Si;No;Obesidad;Fumo actualmente;Moderado;No;Moderadamente activo;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+55;Mujer;Básico (completo/incompleto);Chilena;87;Si;56995000577;Sí;No;FONASA B;No;No;No;No;;Sobrepeso;Nunca fumé;Ninguno;No;Sedentario;Sí;No;No;No;No;No;No;No;Riesgo moderado;No
+56;Hombre;Sin escolaridad;Chilena;91;Si;56962346549;No;No;Fonasa (Desconoce tramo);No;No;No;No;;Obesidad;Fumo actualmente;Ninguno;No;Sedentario;Sí;Sí;No;No;No;No;No;No;Riesgo moderado;No
+57;Hombre;Superior (completo/incompleto);Chilena;33;No;56963065237;Sí;No;Capredena;No;No;No;No;;Sobrepeso;Fumé en el pasado;Ninguno;No;Activo;Sí;No;No;No;No;No;No;No;Riesgo bajo;No
